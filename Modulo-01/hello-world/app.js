@@ -10,4 +10,8 @@ Para que não seja necessário repetir o mesmo processo várias vezes para todos
 No terminal na raiz do projeto:
 tsc --init
 
+-- o arquivo tsconfig.json será criado.
+
+Agora utilizamos ctrl+shift+b e clickamos em compilar tsconfig.json
+Ou em tsc watch para monitorar
 */ 
